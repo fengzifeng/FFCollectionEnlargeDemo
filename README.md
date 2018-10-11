@@ -1,0 +1,2 @@
+# FFCollectionEnlargeDemo
+采用collectionView实现滑动过程中，中间放大两边缩小
