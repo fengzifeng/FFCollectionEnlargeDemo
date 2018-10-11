@@ -20,7 +20,7 @@
 		9F1A12FE216F2C5600BD3494 /* FFEnlargeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F1A12FA216F2C5600BD3494 /* FFEnlargeView.m */; };
 		9F1A1301216F2C6300BD3494 /* UIView+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F1A12FF216F2C6300BD3494 /* UIView+Addition.m */; };
 		9F1A1303216F2C6E00BD3494 /* welfare_posttopic@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F1A1302216F2C6E00BD3494 /* welfare_posttopic@2x.png */; };
-		9FC7558A216F327C00419FF5 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9FC75589216F327C00419FF5 /* demo.gif */; };
+		9FC7558C216F3E1E00419FF5 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9FC7558B216F3E1E00419FF5 /* demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,7 +66,7 @@
 		9F1A12FF216F2C6300BD3494 /* UIView+Addition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Addition.m"; sourceTree = "<group>"; };
 		9F1A1300216F2C6300BD3494 /* UIView+Addition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Addition.h"; sourceTree = "<group>"; };
 		9F1A1302216F2C6E00BD3494 /* welfare_posttopic@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "welfare_posttopic@2x.png"; sourceTree = "<group>"; };
-		9FC75589216F327C00419FF5 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
+		9FC7558B216F3E1E00419FF5 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,8 +123,8 @@
 				9F1A12C7216F2BD100BD3494 /* ViewController.m */,
 				9F1A1300216F2C6300BD3494 /* UIView+Addition.h */,
 				9F1A12FF216F2C6300BD3494 /* UIView+Addition.m */,
-				9FC75589216F327C00419FF5 /* demo.gif */,
 				9F1A1302216F2C6E00BD3494 /* welfare_posttopic@2x.png */,
+				9FC7558B216F3E1E00419FF5 /* demo.gif */,
 				9F1A12F5216F2BF600BD3494 /* EnlargeView */,
 				9F1A12C9216F2BD100BD3494 /* Main.storyboard */,
 				9F1A12CC216F2BD300BD3494 /* Assets.xcassets */,
@@ -271,7 +271,7 @@
 			files = (
 				9F1A12D0216F2BD300BD3494 /* LaunchScreen.storyboard in Resources */,
 				9F1A12CD216F2BD300BD3494 /* Assets.xcassets in Resources */,
-				9FC7558A216F327C00419FF5 /* demo.gif in Resources */,
+				9FC7558C216F3E1E00419FF5 /* demo.gif in Resources */,
 				9F1A12CB216F2BD100BD3494 /* Main.storyboard in Resources */,
 				9F1A1303216F2C6E00BD3494 /* welfare_posttopic@2x.png in Resources */,
 			);
